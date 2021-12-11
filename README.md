@@ -1,5 +1,5 @@
 ## Hi there, I am Vibhor Gautam - aka [VibhorGautam](https://github.com/VibhorGautam)!👋
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently practicing Data Science.
 - 👯 I can collaborate for Machine Learning and AI Hackathons and Competitions.
 - ⚡ Fun fact: I like to create games and cook in my free time! Also a fan of Netflix shows and series! :D
 
